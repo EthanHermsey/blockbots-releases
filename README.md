@@ -1,2 +1,2 @@
 # blockbots-releases
-Blockbots releases
+- https://github.com/EthanHermsey/blockbots-releases
